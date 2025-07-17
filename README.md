@@ -13,7 +13,7 @@ The basins are categorized into 18 hydrological units, reflecting variations in 
 Our findings indicate that the encoder improves the model's hydrological prediction performance, reflected in lower loss values and higher Nash-Sutcliffe efficiency 
 (NSE) coefficients. The improvements are particularly evident in arid basins, although better performance is observed across all basin types.
 
-This project has been developed in May/June 2022 by Group 1 for *Laboratory of Computational Physics MOD B* course at the University of Padova.
+This project has been developed by Group 1 for *Laboratory of Computational Physics MOD B* course at the University of Padova.
 The team was composed by: 
 - Cano Amaro German: https://github.com/german-cano
 - Monti Sebastiano: https://github.com/MontiSebastiano
